@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="hint_email">Email</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="invaild_email">Your email is invaild</string>
+    <string name="invaild_password">Your Password is too Short</string>
+    <string name="incorrect_password">Your Password is invaild</string>
+    <string name="field_required">PLease fill the fields</string>
+</resources>
